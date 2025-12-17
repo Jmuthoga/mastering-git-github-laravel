@@ -1,0 +1,13 @@
+name: Disabled - Legacy Laravel Workflow
+
+# This workflow is intentionally disabled and kept as a placeholder
+# to avoid duplicate runs. Use `.github/workflows/laravel.yml` instead.
+
+on: []
+
+jobs:
+  noop:
+    runs-on: windows-latest
+    steps:
+      - name: No-op
+        run: echo "This workflow is intentionally disabled. Use .github/workflows/laravel.yml instead."

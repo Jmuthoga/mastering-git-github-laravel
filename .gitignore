@@ -1,0 +1,39 @@
+# Laravel & PHP
+/vendor/
+/node_modules/
+/.env
+.phpunit.result.cache
+/storage/*.key
+/storage/debugbar/*
+/storage/framework/cache/data/*
+/storage/logs/*
+/bootstrap/cache/*.php
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / NPM / Yarn
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Build / dist
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Composer
+composer.lock
+
+# Optional: PHPUnit
+.phpunit.result.cache
+
+# Misc
+.env.backup
+
