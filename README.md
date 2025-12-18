@@ -1,7 +1,7 @@
 # Mastering Git & GitHub with Laravel — Free 2‑Week Course
 
-![Build Status](https://github.com/Jmuthoga/mastering-git-github-laravel/actions/workflows/markdown.yml/badge.svg)
-![Pages](https://github.com/Jmuthoga/mastering-git-github-laravel/actions/workflows/pages.yml/badge.svg)
+![GitHub Pages](https://github.com/Jmuthoga/mastering-git-github-laravel/actions/workflows/github-pages.yml/badge.svg)
+![Pages Status](https://img.shields.io/badge/GitHub%20Pages-Active-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Welcome to the **Mastering Git & GitHub with Laravel** course! This repository provides a **complete 2-week, instructor-ready curriculum** designed to help learners become proficient with Git, GitHub, and professional collaboration workflows in Laravel projects. The course includes **modular lessons, practical exercises, rubrics, and team projects** to reinforce real-world version control practices.
