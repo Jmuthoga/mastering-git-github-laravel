@@ -58,7 +58,7 @@ Welcome to the **Mastering Git & GitHub with Laravel** course! This repository p
 
 ## **Submission Guidelines**
 
-- All assignments must be submitted to the course **Discord server**, in the `#intro-to-git-and-github` channel.  
+- All assignments must be submitted to the course **Discord server**, in the `#git-and-github` channel.  
 - **Invite Link:** [https://discord.gg/wcFzwswv](https://discord.gg/wcFzwswv)  
 - Use the [`SUBMIT_GUIDELINES.md`](SUBMIT_GUIDELINES.md) template for submissions.  
 
